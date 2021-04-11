@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682371228522",
+    "project_id": "magang-online-1",
+    "storage_bucket": "magang-online-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682371228522:android:faf7122cc764d77ab0bb13",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapk1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682371228522-kqurhc6j94uadogfdphs30ehlld5l41k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseapk1",
+            "certificate_hash": "f8ee5716a150ca0507d4a88d65ff61059b269a07"
+          }
+        },
+        {
+          "client_id": "682371228522-8joga4ib5l1ihrnqvijnopct9bmatlik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-0f9nUm9kDwKsS3nI9RjVi2V8K9XSjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682371228522-8joga4ib5l1ihrnqvijnopct9bmatlik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

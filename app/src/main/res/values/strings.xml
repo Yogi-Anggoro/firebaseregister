@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebaseapk1</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="tanggallahir">Tanggal Lahir</string>
+    <string name="fill_data">Harus Di Isi</string>
+</resources>
